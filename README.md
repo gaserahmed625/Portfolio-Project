@@ -1,0 +1,1 @@
+wellcome to hello world we want to be a mobile developer not fullstack developer
